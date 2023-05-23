@@ -1,0 +1,1 @@
+exclude: ['main.py', 'Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'media/', 'concat.sh', 'videos.txt']
