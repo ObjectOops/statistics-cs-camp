@@ -1,6 +1,6 @@
 var video = document.getElementById("presentation");
 
-const pauseTimes = [];
+const pauseTimes = [2, 7, 13, 18, 25, 27, 31, 34, 36];
 
 function checkAutoPause() {
     var currentSecond = Math.floor(video.currentTime);
